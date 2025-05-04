@@ -1,7 +1,7 @@
 - Add 'TaskMan' in Smartwatch app notification list
 - Notifications setup (S24 ultra)
     - Long press task notification
-    - disable "badge", but keep enabled "lock screen" & "pop-up"
+    - disable "badge" & "lock screen", but keep enabled "pop-up"
     - Notification categories
         - Forgrond service -> disable  (todo- check if this causes any issue with app getting killed)
         - Tasks channel -> disable "show as pop-up"
